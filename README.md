@@ -13,6 +13,14 @@
 <!-- <a href="https://nest.land/package/denote"><img alt="nest badge" src="https://nest.land/badge.svg"></a> -->
 </p>
 
+> [!WARNING]
+> **This project is archived and no longer maintained.**
+>
+> Deno Deploy Classic was shut down on 2026-07-20. `https://denote.deno.dev` no
+> longer responds, and denote is built around Deploy Classic — `deployctl`-based
+> deployment and the `denote.deno.dev` registry — so it cannot run on the new
+> Deno Deploy without a rewrite. The source is kept for reference only.
+
 A minimal profile page generator for Deno Deploy that _denotes_ you
 
 [Demo](https://denote.deno.dev/denote)
